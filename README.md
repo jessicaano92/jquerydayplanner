@@ -12,6 +12,8 @@ This day planner provides the current day from 9am to 5pm to save any plans insi
 
 <img src="https://github.com/jessicaano92/jquerydayplanner/blob/main/Day%20planner%20screenshots/image3.png">
 
+## Technology Used
+HTML, CSS, JavaScript
 
 
 ## Credits
@@ -41,3 +43,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Github Link- https://jessicaano92.github.io/jquerydayplanner/
