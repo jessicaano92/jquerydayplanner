@@ -13,7 +13,7 @@ This day planner provides the current day from 9am to 5pm to save any plans insi
 <img src="https://github.com/jessicaano92/jquerydayplanner/blob/main/Day%20planner%20screenshots/image3.png">
 
 ## Technology Used
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript, jQuery
 
 
 ## Credits
